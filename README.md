@@ -20,22 +20,21 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages and Tools:</b> 
-<br>
+<div>
+    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">
+    <b>Languages and Tools:</b>
+</div>
 
-<p align="start">
-
-- ## 🖥️ Front-End Development:
-    
-   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
-   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
-   ![React](https://img.shields.io/badge/React%20-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)  
-   ![Vue.js](https://img.shields.io/badge/Vue.js%20-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white)  
-   ![Astro](https://img.shields.io/badge/Astro%20-%23FF5D01.svg?style=for-the-badge&logo=astro&logoColor=white)  
-   ![Bootstrap](https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  
-   ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS%20-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-   ![Flask](https://img.shields.io/badge/Flask%20-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)  
-
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+    <img src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+    <img src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+    <img src="https://img.shields.io/badge/React%20-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+    <img src="https://img.shields.io/badge/Vue.js%20-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
+    <img src="https://img.shields.io/badge/Astro%20-%23FF5D01.svg?style=for-the-badge&logo=astro&logoColor=white" alt="Astro" />
+    <img src="https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS%20-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+    <img src="https://img.shields.io/badge/Flask%20-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+</div>
 
 <br>   
     
