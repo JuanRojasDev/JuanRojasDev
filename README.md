@@ -90,6 +90,6 @@
 <br>
 
 <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JuanRojasDev&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="JuanRojasDev" width="45%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JuanRojasDev&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="JuanRojasDev" width="42%" />
     <img src="https://github-readme-stats.vercel.app/api?username=JuanRojasDev&show_icons=true&locale=en&theme=tokyonight" alt="JuanRojasDev" width="54%" />
 </div>
