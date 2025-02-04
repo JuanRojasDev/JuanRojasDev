@@ -1,21 +1,11 @@
 <div align="center">
 <h1 align="center">Hi, I'm <a href="https://aristi.dev">Juan Andres Rojas</a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 </div>
-<img src="https://firebasestorage.googleapis.com/v0/b/images-38de5.appspot.com/o/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png?alt=media&token=e5c94174-9cdb-444e-b87b-ceffc835a860">
+<img src="https://firebasestorage.googleapis.com/v0/b/images-38de5.appspot.com/o/Dise%C3%B1o%20sin%20t%C3%ADtulo%20(2).png?alt=media&token=36deaceb-5304-4c7e-9759-2fdeb6f0dd4f">
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=A+passionate+Fullstack+Developer..&hearts;++;Self-taught+Front-End+Developer,;Android+and+Web+Developer,;from+Colombia,+Bogotá+D.C&hearts;++;Love+to+learn+new+stuffs..%3C3"></a>
 </p>
-
----
-
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
-### Spotify Playing 🎧
-
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/intl-es/track/0VjIjW4GlUZAMYd2vXMi3b?si=f8da4fb8bf2e456f)
-
----
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JuanRojasDev&label=Profile%20views&color=0e75b6&style=flat" alt="JuanRojasDev" /> </p>
 
@@ -32,6 +22,16 @@
 - ⚡ Fun fact **I am Funny**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+---
+
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/intl-es/track/0VjIjW4GlUZAMYd2vXMi3b?si=f8da4fb8bf2e456f)
+
+---
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages and Tools:</b> 
 
