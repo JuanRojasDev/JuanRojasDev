@@ -2,12 +2,11 @@
 <h1 align="center">Hi, I'm <a href="https://juanrojas.vercel.app">Juan Andres Rojas</a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 </div>
 <img src="https://firebasestorage.googleapis.com/v0/b/images-38de5.appspot.com/o/Dise%C3%B1o%20sin%20t%C3%ADtulo%20(2).png?alt=media&token=36deaceb-5304-4c7e-9759-2fdeb6f0dd4f">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=JuanRojasDev&label=Profile%20views&color=0e75b6&style=flat" alt="JuanRojasDev" /> </p>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=A+passionate+Fullstack+Developer..&hearts;++;Self-taught+Front-End+Developer,;Android+and+Web+Developer,;from+Colombia,+Bogotá+D.C&hearts;++;Love+to+learn+new+stuffs..%3C3"></a>
 </p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=JuanRojasDev&label=Profile%20views&color=0e75b6&style=flat" alt="JuanRojasDev" /> </p>
 
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
