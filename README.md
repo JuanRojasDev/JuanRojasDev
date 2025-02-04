@@ -42,14 +42,14 @@
 - ## ⚙️ Back-End Development:
   
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
-    ![Node.js](https://img.shields.io/badge/Node.js%20-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)  
-    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)  
-    ![FastAPI](https://img.shields.io/badge/FastAPI%20-%2300C7B7.svg?style=for-the-badge&logo=fastapi&logoColor=white)  
-    ![SQL](https://img.shields.io/badge/SQL%20-%2343853D.svg?style=for-the-badge&logo=sqlite&logoColor=white)  
-    ![MongoDB](https://img.shields.io/badge/MongoDB%20-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
-    ![Firebase](https://img.shields.io/badge/Firebase%20-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)  
-    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+    <img src="https://img.shields.io/badge/Node.js%20-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+    <img src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/FastAPI%20-%2300C7B7.svg?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+    <img src="https://img.shields.io/badge/SQL%20-%2343853D.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL"/>
+    <img src="https://img.shields.io/badge/MongoDB%20-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+    <img src="https://img.shields.io/badge/Firebase%20-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+    <img src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
 </div>
 
 <br>
