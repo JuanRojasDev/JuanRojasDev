@@ -20,9 +20,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-<div>
-    ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages and Tools:</b> 
-</div>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages and Tools:</b> 
 
 - ## 🖥️ Front-End Development:
   
@@ -56,28 +54,34 @@
 
 - ## 📱 Mobile Developtment:
 
-    ![Flutter](https://img.shields.io/badge/Flutter%20-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)  
-    ![Kotlin](https://img.shields.io/badge/Kotlin%20-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)  
-    ![React Native](https://img.shields.io/badge/React_Native%20-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)  
-    ![Java](https://img.shields.io/badge/Java%20-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
-    ![Hive](https://img.shields.io/badge/Hive%20-%23FFD700.svg?style=for-the-badge&logo=hive&logoColor=black)  
-    ![XML](https://img.shields.io/badge/XML%20-%23FF6600.svg?style=for-the-badge&logo=xml&logoColor=white)  
-    ![Android Studio](https://img.shields.io/badge/Android_Studio%20-%233DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white) 
-    
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+    <img src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+    <img src="https://img.shields.io/badge/Kotlin%20-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
+    <img src="https://img.shields.io/badge/React_Native%20-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React Native"/>
+    <img src="https://img.shields.io/badge/Java%20-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+    <img src="https://img.shields.io/badge/Hive%20-%23FFD700.svg?style=for-the-badge&logo=hive&logoColor=black" alt="Hive"/>
+    <img src="https://img.shields.io/badge/XML%20-%23FF6600.svg?style=for-the-badge&logo=xml&logoColor=white" alt="XML"/>
+    <img src="https://img.shields.io/badge/Android_Studio%20-%233DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio"/>
+
+</div>
+
 <br>
 
 - ## 🛠️ Softwares and Tools:
 
-    ![Git](https://img.shields.io/badge/Git%20-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)  
-    ![GitHub](https://img.shields.io/badge/GitHub%20-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)  
-    ![VS Code](https://img.shields.io/badge/VS_Code%20-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-    ![Jira](https://img.shields.io/badge/Jira%20-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white)  
-    ![Notion](https://img.shields.io/badge/Notion%20-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)  
-    ![Vercel](https://img.shields.io/badge/Vercel%20-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)  
-    ![Digital Ocean](https://img.shields.io/badge/Digital_Ocean%20-%230080FF.svg?style=for-the-badge&logo=digitalocean&logoColor=white)  
-    ![Railway](https://img.shields.io/badge/Railway%20-%230B0D0E.svg?style=for-the-badge&logo=railway&logoColor=white)  
-    ![Docker](https://img.shields.io/badge/Docker%20-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  
-    ![Figma](https://img.shields.io/badge/Figma%20-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)   
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+  <img src="https://img.shields.io/badge/Git%20-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub%20-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS_Code%20-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Jira%20-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
+  <img src="https://img.shields.io/badge/Notion%20-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
+  <img src="https://img.shields.io/badge/Vercel%20-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+  <img src="https://img.shields.io/badge/Digital_Ocean%20-%230080FF.svg?style=for-the-badge&logo=digitalocean&logoColor=white" alt="Digital Ocean"/>
+  <img src="https://img.shields.io/badge/Railway%20-%230B0D0E.svg?style=for-the-badge&logo=railway&logoColor=white" alt="Railway"/>
+  <img src="https://img.shields.io/badge/Docker%20-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Figma%20-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+
+</div>
 
 <br>
 
