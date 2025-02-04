@@ -25,6 +25,8 @@
     <b>Languages and Tools:</b>
 </div>
 
+- ## 🖥️ Front-End Development:
+  
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
     <img src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
     <img src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
