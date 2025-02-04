@@ -89,6 +89,6 @@
 
 <br>
 
-<p><img align= "left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JuanRojasDev&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="JuanRojasDev" /></p>
+<p><img align= "start" src="https://github-readme-stats.vercel.app/api/top-langs?username=JuanRojasDev&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="JuanRojasDev" /></p>
 
-<p><img align= "right" src="https://github-readme-stats.vercel.app/api?username=JuanRojasDev&show_icons=true&locale=en&theme=tokyonight" alt="JuanRojasDev" /></p>
+<p><img align= "end" src="https://github-readme-stats.vercel.app/api?username=JuanRojasDev&show_icons=true&locale=en&theme=tokyonight" alt="JuanRojasDev" /></p>
