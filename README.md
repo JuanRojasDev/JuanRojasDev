@@ -23,7 +23,7 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages and Tools:</b> 
 <br>
 
-<p align="left">
+<p align="start">
 
 - ## 🖥️ Front-End Development:
     
@@ -89,6 +89,6 @@
 
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JuanRojasDev&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="JuanRojasDev" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JuanRojasDev&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="JuanRojasDev" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=JuanRojasDev&show_icons=true&locale=en&theme=tokyonight" alt="JuanRojasDev" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=JuanRojasDev&show_icons=true&locale=en&theme=tokyonight" alt="JuanRojasDev" /></p>
