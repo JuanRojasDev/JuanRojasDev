@@ -21,8 +21,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <div>
-    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">
-    <b>Languages and Tools:</b>
+    ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages and Tools:</b> 
 </div>
 
 - ## 🖥️ Front-End Development:
@@ -41,7 +40,8 @@
 <br>   
     
 - ## ⚙️ Back-End Development:
-
+  
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
     ![Node.js](https://img.shields.io/badge/Node.js%20-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)  
     ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)  
@@ -50,7 +50,7 @@
     ![MongoDB](https://img.shields.io/badge/MongoDB%20-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
     ![Firebase](https://img.shields.io/badge/Firebase%20-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)  
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  
+</div>
 
 <br>
 
