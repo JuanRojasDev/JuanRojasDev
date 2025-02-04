@@ -1,4 +1,7 @@
-<h1 align="center"><b>Hi , I'm Juan Andres Rojas </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<div align="center">
+<h1 align="center">Hi, I'm <a href="https://aristi.dev">Juan Andres Rojas</a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+</div>
+<img src="https://firebasestorage.googleapis.com/v0/b/images-38de5.appspot.com/o/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png?alt=media&token=e5c94174-9cdb-444e-b87b-ceffc835a860">
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=A+passionate+Fullstack+Developer..&hearts;++;Self-taught+Front-End+Developer,;Android+and+Web+Developer,;from+Colombia,+Bogotá+D.C&hearts;++;Love+to+learn+new+stuffs..%3C3"></a>
