@@ -5,10 +5,10 @@
 <img src="https://firebasestorage.googleapis.com/v0/b/images-38de5.appspot.com/o/Dise%C3%B1o%20sin%20t%C3%ADtulo%20(2).png?alt=media&token=36deaceb-5304-4c7e-9759-2fdeb6f0dd4f">
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
-<img src="https://img.shields.io/badge/Age-20-blue" />
-<img src="https://img.shields.io/badge/Languages-English%20%26%20Spanish-darkcyan" />
-<img src="https://komarev.com/ghpvc/?username=JuanRojasDev&label=Profile%20views&color=0e75b6&style=flat" alt="JuanRojasDev" />
-<img src="https://visitor-badge.laobi.icu/badge?page_id=JuanRojasDev.repoName" alt="JuanRojasDev" /> 
+<img src="https://img.shields.io/badge/Age-20-2f6690" />
+<img src="https://img.shields.io/badge/Languages-English%20%26%20Spanish-3a7ca5" />
+<img src="https://komarev.com/ghpvc/?username=JuanRojasDev&label=Profile%20views&color=2f6690&style=flat" alt="JuanRojasDev" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=JuanRojasDev.repoName&color=yellow" alt="JuanRojasDev" />
 <img src="https://img.shields.io/github/followers/JuanRojasDev?style=social" alt="JuanRojasDev" />
 <img src="https://img.shields.io/github/stars/JuanRojasDev?style=social" alt="JuanRojasDev" /> 
 </div>
