@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/Age-20-2f6690" />
 <img src="https://img.shields.io/badge/Languages-English%20%26%20Spanish-3a7ca5" />
 <img src="https://komarev.com/ghpvc/?username=JuanRojasDev&label=Profile%20views&color=2f6690&style=flat" alt="JuanRojasDev" />
-<img src="https://visitor-badge.laobi.icu/badge?page_id=JuanRojasDev.repoName&color=yellow" alt="JuanRojasDev" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=JuanRojasDev.repoName" alt="JuanRojasDev" /> 
 <img src="https://img.shields.io/github/followers/JuanRojasDev?style=social" alt="JuanRojasDev" />
 <img src="https://img.shields.io/github/stars/JuanRojasDev?style=social" alt="JuanRojasDev" /> 
 </div>
