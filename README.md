@@ -2,8 +2,6 @@
 <h1 align="center">Hi, I'm <a href="https://juanrojas.vercel.app">Juan Andres Rojas</a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 </div>
 
-<img src="https://i.ibb.co/NnkH0bgC/c0033aea-04c9-47cf-88a8-41b093507b05.png">
-
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
 <img src="https://img.shields.io/badge/Age-21-2f6690" />
 <img src="https://img.shields.io/badge/Languages-English%20%26%20Spanish-3a7ca5" />
