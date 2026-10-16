@@ -3,7 +3,7 @@
 </div>
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
-<img src="https://img.shields.io/badge/Age-21-2f6690" />
+<img src="https://img.shields.io/badge/Age-22-2f6690" />
 <img src="https://img.shields.io/badge/Languages-English%20%26%20Spanish-3a7ca5" />
 <img src="https://komarev.com/ghpvc/?username=JuanRojasDev&label=Profile%20views&color=2f6690&style=flat" alt="JuanRojasDev" />
 <img src="https://visitor-badge.laobi.icu/badge?page_id=JuanRojasDev.repoName" alt="JuanRojasDev" /> 
